@@ -2,7 +2,7 @@
 
 • I'm a web developer with a passion for creating visually appealing and interactive websites.  
 • I thrive on turning creative ideas into digital reality, bringing a blend of design and functionality to the web.    
-• Open for Internship roles
+• Open for gigs
 
 ## 🌐 Let's Collaborate!
 
