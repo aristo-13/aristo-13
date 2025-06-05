@@ -9,7 +9,7 @@ I'm a **web developer** passionate about building visually appealing, user-frien
 **Frontend:**
 - React.js / Next.js
 - HTML5, CSS3, JavaScript (ES6+)
-- Tailwind CSS, Sass, Bootstrap
+- Tailwind CSS
 
 **Backend:**
 - Node.js, Express.js
