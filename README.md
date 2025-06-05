@@ -30,7 +30,7 @@ I'm a **web developer** passionate about building visually appealing, user-frien
 I'm excited to work on meaningful web projects and contribute to the ever-evolving world of development.
 
 📩 **Reach out:**  
-[📧 Email](mailto:oseirichmond310.com)  | [🌍 Portfolio]([https://your-portfolio-link.com](https://richmondomensah.ct.ws/))
+[📧 Email](mailto:oseirichmond310.com)  | [🌍 Portfolio](https://richmondomensah.ct.ws/)
 
 ---
 
